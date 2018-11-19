@@ -1,5 +1,6 @@
 $white: #fff;
 $primary: #ed3237;
+$light: #f4f4f4;
 
 $font-family-sans-serif:  "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $headings-font-family: 'Poppins', sans-serif;
@@ -9,3 +10,11 @@ $navbar-nav-link-padding-x: 1.25rem;
 $navbar-light-active-color: $white;
 
 $breadcrumb-divider: quote(">");
+
+$pagination-bg: $light;
+$pagination-active-bg: $pagination-bg;
+$pagination-color: #212529;
+$pagination-active-color: $pagination-color;
+$pagination-border-width: 0;
+$pagination-padding-y: 1rem;
+$pagination-padding-x: 0.75rem;

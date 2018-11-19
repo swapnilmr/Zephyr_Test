@@ -495,7 +495,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/bootstrap/dist/js/bootstrap.bundle.js",
 		"oF": 0,
 		"sC": 3,
@@ -529,7 +529,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/bootstrap/dist/js/bootstrap.js",
 		"oF": 0,
 		"sC": 3,
@@ -70608,7 +70608,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/font-awsome/web-fonts-with-css/scss/brands.scss",
 		"oF": 0,
 		"oS": 0,
@@ -70621,7 +70621,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/font-awsome/web-fonts-with-css/scss/fontawesome.scss",
 		"oF": 0,
 		"oS": 0,
@@ -70647,7 +70647,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/font-awsome/web-fonts-with-css/scss/solid.scss",
 		"oF": 0,
 		"oS": 0,
@@ -72004,6 +72004,72 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/images/cart.png": {
+		"ft": 32768,
+		"iS": 1027,
+		"oA": 0,
+		"oAP": "/images/cart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/cirrus.jpg": {
+		"ft": 16384,
+		"iS": 8392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/cirrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/discover.jpg": {
+		"ft": 16384,
+		"iS": 7195,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/discover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/ebay.jpg": {
+		"ft": 16384,
+		"iS": 8511,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/ebay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/email.png": {
+		"ft": 32768,
+		"iS": 1321,
+		"oA": 0,
+		"oAP": "/images/email.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gift.png": {
+		"ft": 32768,
+		"iS": 1487,
+		"oA": 0,
+		"oAP": "/images/gift.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/image_1.jpg": {
 		"ft": 16384,
 		"iS": 89701,
@@ -72013,6 +72079,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/images/image_2.jpg": {
+		"ft": 16384,
+		"iS": 89701,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/image_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/insta_1.jpg": {
@@ -72113,12 +72190,89 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/images/paypal.jpg": {
+		"ft": 16384,
+		"iS": 7787,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/paypal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/phone.png": {
+		"ft": 32768,
+		"iS": 1183,
+		"oA": 0,
+		"oAP": "/images/phone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/sale_1.jpg": {
 		"ft": 16384,
 		"iS": 20964,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/sale_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/sale_2.jpg": {
+		"ft": 16384,
+		"iS": 19444,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/sale_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/sale_3.jpg": {
+		"ft": 16384,
+		"iS": 18051,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/sale_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/sale_4.jpg": {
+		"ft": 16384,
+		"iS": 20780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/sale_4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/TLB.png": {
+		"ft": 32768,
+		"iS": 3158,
+		"oA": 0,
+		"oAP": "/images/TLB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/visa.jpg": {
+		"ft": 16384,
+		"iS": 7404,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/visa.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -72207,6 +72361,127 @@
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
+		},
+	"/webfonts/fa-brands-400.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-brands-400.eot",
+		"oF": 0
+		},
+	"/webfonts/fa-brands-400.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/webfonts/fa-brands-400.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/webfonts/fa-brands-400.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-brands-400.ttf",
+		"oF": 0
+		},
+	"/webfonts/fa-brands-400.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-brands-400.woff",
+		"oF": 0
+		},
+	"/webfonts/fa-brands-400.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-brands-400.woff2",
+		"oF": 0
+		},
+	"/webfonts/fa-regular-400.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-regular-400.eot",
+		"oF": 0
+		},
+	"/webfonts/fa-regular-400.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/webfonts/fa-regular-400.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/webfonts/fa-regular-400.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-regular-400.ttf",
+		"oF": 0
+		},
+	"/webfonts/fa-regular-400.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-regular-400.woff",
+		"oF": 0
+		},
+	"/webfonts/fa-regular-400.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-regular-400.woff2",
+		"oF": 0
+		},
+	"/webfonts/fa-solid-900.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-solid-900.eot",
+		"oF": 0
+		},
+	"/webfonts/fa-solid-900.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/webfonts/fa-solid-900.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/webfonts/fa-solid-900.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-solid-900.ttf",
+		"oF": 0
+		},
+	"/webfonts/fa-solid-900.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-solid-900.woff",
+		"oF": 0
+		},
+	"/webfonts/fa-solid-900.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/webfonts/fa-solid-900.woff2",
+		"oF": 0
+		},
+	"/Zephyr.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/Zephyr.zip",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -72221,7 +72496,7 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/bootstrap/dist/js/bootstrap.js",
+			"linkedFileAbbreviatedPath": "/bower_components/bootstrap/dist/js/bootstrap.bundle.js",
 			"position": 1,
 			"type": 0
 			}
