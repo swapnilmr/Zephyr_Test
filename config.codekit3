@@ -72475,13 +72475,6 @@
 		"oA": 0,
 		"oAP": "/webfonts/fa-solid-900.woff2",
 		"oF": 0
-		},
-	"/Zephyr.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/Zephyr.zip",
-		"oF": 0
 		}
 	},
 "hooks": [
